@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\shalo\OneDrive\Bureau\arthur.g\.metadata\.plugins\org.eclipse.jdt.core
+2556734273.index
+499511106.index
+3460880079.index
